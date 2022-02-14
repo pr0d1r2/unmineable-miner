@@ -19,7 +19,7 @@ bash install.sh
 
 ## Configuration
 
-Fill in your wallets in `/etc/miner.env`.
+Fill in your wallets and unique WORKER_NAME in `/etc/miner.env`.
 
 ## Mining:
 
