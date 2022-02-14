@@ -103,6 +103,22 @@ unmineable-mine etc btc lol
 unmineable-mine rvn btc lol
 ```
 
+### Check mining status
+
+We have handy shortcuts:
+
+#### CPU
+
+```bash
+wcpu
+```
+
+#### GPU
+
+```bash
+wgpu
+```
+
 ## Development
 
 Requires ruby. For TDD-like experience while making changes use:
