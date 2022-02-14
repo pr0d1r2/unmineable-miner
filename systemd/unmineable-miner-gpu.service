@@ -1,0 +1,13 @@
+[Unit]
+Description=unmineable.com miner GPU
+
+[Service]
+TimeoutStartSec=5
+TimeoutStopSec=5
+Restart=always
+RestartSec=60s
+
+ExecStart=/usr/local/bin/unmineable-miner-gpu
+
+[Install]
+WantedBy=network-online.target
