@@ -132,7 +132,9 @@ It will run docker build each time changes are saved.
 
 ## Related
 
-There is [unmineable-workers](https://github.com/pr0d1r2/unmineable-workers).
+There are also:
+- [unmineable-workers](https://github.com/pr0d1r2/unmineable-workers)
+- [unmineable-pushover-notification](https://github.com/pr0d1r2/unmineable-pushover-notification)
 
 ## Support
 
