@@ -130,6 +130,10 @@ bundle exec guard
 
 It will run docker build each time changes are saved.
 
+## Related
+
+There is [unmineable-workers](https://github.com/pr0d1r2/unmineable-workers).
+
 ## Support
 
 Consider using my [unmineable referral link](https://www.unmineable.com/?ref=3792-egij) (0.75% pool fee instead of 1% for you as well) or [donate](https://github.com/pr0d1r2/donate) or both.
